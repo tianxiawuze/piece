@@ -7,6 +7,7 @@
 | 分支 | 内容 | 工具 |
 | --- | --- | --- |
 | [`aluminum-plate-modal`](https://github.com/tianxiawuze/piece/tree/aluminum-plate-modal) | 铝板模态振动分析 | Abaqus、AutoCAD |
+| [`aluminum-plate-static`](https://github.com/tianxiawuze/piece/tree/aluminum-plate-static) | 铝板静力应力分析（完全固定约束 + 集中载荷） | Abaqus、AutoCAD |
 
 ## 怎么看某次作业
 
